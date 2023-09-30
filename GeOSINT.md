@@ -1,0 +1,65 @@
+- https://sites.google.com/mrpiercey.com/resources/geo/kml-downloads
+- https://www.google.com/earth/studio/ | Google Earth Studio
+- https://earthengine.google.com/timelapse/ | Showing long term changes in rural areas
+- https://www.bing.com/maps | Microsoft/Bing Mapping and Imagery Resources
+- https://zoom.earth/ | Zoom Earth
+- https://earth.google.com/web/ 
+- https://yandex.com/maps/  | Good for viewing areas censored by US companie
+- https://mapchannels.com/DualMaps.aspx | Google Maps, Street View & Birds Eye on one page
+- https://mc.bbbike.org/mc/ | Compare three map sets for one location
+- https://www.arcgis.com/ | Esri map data, used by many gov and private sector agencies
+- http://livingatlas.arcgis.com/wayback/ | Historical captures by date
+- https://www.openstreetmap.org | Includes crowd sourced data. House number overlays
+- https://openstreetcam.org/map/ | Similar mapping based on open street crowdsourced data
+- http://wikimapia.org – Options to pull up Google, Bing, and other map sets with the addition of layer data that includes some infrastructure such as government facilities, parks, schools, etc.
+- https://eos.com/landviewer/ | View map sets available for target area, sign up with a burner account for more options
+- https://map.openaerialmap.org/ | UAV imagery project, crowdsourced aerial imagery
+- https://wego.here.com/ | Older images domestically, worth checking for international POIs
+- https://www.mapbox.com/ | Fewer options, older map sets for some areas, metrological layers
+- https://www.scribblemaps.com/ | Edit and add your own overlays
+- https://www.freemaptools.com/ | Customize map views with international toolsets
+- https://sentinel.esa.int/web/sentinel/missions/sentinel-2/data-products
+- https://modis.gsfc.nasa.gov/ 
+- https://maps.descarteslabs.com/ cycle through sentinel, Landsat, and NAIP imagery
+- https://gisgeography.com/free-satellite-imagery-data-list/ | List of satellite imagery
+- https://www.google.com/earth/versions/ | Great for creating custom maps or ingesting KML
+- http://www.gelib.com/ | Map sets for Google Earth Pro
+- https://www.gearthhacks.com  – Thousands of crowdsources data sets
+- https://www.google.com/earth/outreach/learn/ | Google Earth Tutorials
+- https://www.gearthblog.com/basics | Google Earth Tutorials
+- https://onemilliontweetmap.com/ | Small sample of twitter data by location
+- https://www.trendsmap.com/ | Twitter topic map
+- https://www.omnisci.com/demos/tweetmap | Small sample of twitter data
+- https://github.com/r3mlab/tweetsmapper | Map tweets via script (if API geo data exists)
+- https://map.snapchat.com – Small sample of Snapchat data by location
+- https://mattw.io/youtube-geofind/location | YouTube geolocation based search
+- https://www.doogal.co.uk/strava.php | Strava exercise data maps
+- http://photo-map.ru/ | VK mapping image mapping 
+- https://www.echosec.net – Pricey and more of an enterprise product now
+- https://www.warwire.net/ | 14-day Trial for a paid subscription product
+- https://www.zillow.com/homes/ | Zillow mapped neighborhoods
+- https://matterport.com – use Google operators on various real-estate sites to find client postings site:matterport.com Denver | Matterport use site colon
+- https://stevemorse.org/jcal/latlon.php | Street Address | Lat/Long conversion
+- https://www.latlong.net/convert-address-to-lat-long.html | Address | Lat/Long conversion
+- http://suncalc.net/ | Sun position & shadow estimation by geolocation
+- https://www.mapchecking.com/ | Crowd size estimation (use for civil disturbances etc.)
+- http://www.geonames.org/  | Submit list
+- https://openstreetcam.org/ | Useful for locating public facing cameras
+- https://www.mapillary.com/app/ | Crowdsourced streetview from cyclists
+- https://liveuamap.com/ | International conflict, natural disasters, civil-unrest (some domestic US data as well, but limited) mostly significant world conflicts and events
+- https://legacy.lib.utexas.edu/maps/ | U of T Maps of  current interest (pandemic, conflict, etc.)
+- https://flowingdata.com/tag/flights/ | Aviation data maps
+- https://openflights.org/ | Aviation data maps
+- https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 | Pandemic data Johns Hopkins, example of academic mapping 
+- https://maps.safecity.in/main | Stalking, harassment reports (crowd sourced via app)
+- https://github.com/david-r-edgar/MapSwitcher | Multi map service Chrome extension
+- https://opencellid.org
+- https://cellidfinder.com/ 
+- https://cellphonetrackers.org/
+- https://ics-radar.shodan.io/
+- https://cybermap.kaspersky.com/
+- https://threatmap.checkpoint.com/ThreatPortal/livemap.html
+- https://threatmap.fortiguard.com/
+- https://threatbutt.com/map/
+- https://talosintelligence.com/fullpage_maps/pulse
+- https://www.fireeye.com/cyber-map/threat-map.html
