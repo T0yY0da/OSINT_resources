@@ -1,0 +1,28 @@
+- https://www.google.com/advanced_search | Google Advanced Search
+- https://search.yahoo.com/web/advanced | Yahoo Advanced Search         
+- https://www.google.com/ | Google Search
+- https://searx.space/ | SearX Decentralized Search Engine
+- https://yandex.com/
+- https://web.archive.org/web/*/chevy%20magee | Wayback machine name search
+- http://www.exalead.com/ | Exalead Search Engine
+- https://archive.md/ | Webpage archive
+- https://web.archive.org/web/*/chicago.gov | Wayback Machine
+- https://advangle.com/ | Advangle: advanced web-search in Google and Bing
+- https://ahmia.fi/search/
+- https://darksearch.io/
+- https://tor2web.to/| 
+- https://keywordtool.io/search/keywords/google/12421450?category=web&keyword=proud%20boys&country=US&language=en#suggestions 
+- https://search.goo.ne.jp/ | goo検索
+- https://www.bing.com/ | Bing
+- https://www.bing.com/translator | Bing Microsoft Translator
+- https://translate.google.com/ | Google Translate
+- https://www.2lingual.com/ | 2lingual Google Search
+- https://www.daum.net/?t__nil_top=refresh | Daum
+- http://isearchfrom.com/ | I Search From: custom location, language, device & personalization Google Search tool to preview ads & results
+- http://www.parseek.com/ | پارسیک - آخرین اخبار سایتهای خبری
+- https://duckduckgo.com/ | DuckDuckGo — Privacy, simplified.
+- https://www.startpage.com/ | Startpage.com - The world's most private search engine
+- https://searchenginecolossus.com/ | Search Engines Search Engines Search Engines
+- https://nerdydata.com/ | NerdyData.com - Search The Web's Source Code for Technologies
+- https://cse.google.com/cse/ | Custom Search Engine
+- https://www.deepl.com/translator | DeepL Translator
