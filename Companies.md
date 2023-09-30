@@ -1,11 +1,11 @@
-- https://start.me/p/rxeRqr/aml-toolbox | Business research links
-- https://chrome.google.com/webstore/detail/discoverly-for-gmail-link/dijhcpbkalfgkcebgoncjmfpbamihgaf?utm_source=chrome-ntp-icon | LinkedIn Script
-- https://medium.com/@sector035/gathering-company-intel-the-agile-way-6db12ca031c9| guide by sector035
-- https://www.intelligencewithsteve.com/post/a-guide-to-searching-linkedin-by-email-address | Another way to search LinkedIn by email address
-- https://www.list-org.com/ | List-Org Russian Companies
-- https://www.qichacha.com/ | Qichacha Chinese Companies
-- https://beta.companieshouse.gov.uk/ | Companies House UK Companies
-- https://e-justice.europa.eu/content_business_registers_in_member_states-106-de-en.do?member=1 | EU National Registries
+- https://start.me/p/rxeRqr/aml-toolbox | Business research links
+- https://chrome.google.com/webstore/detail/discoverly-for-gmail-link/dijhcpbkalfgkcebgoncjmfpbamihgaf?utm_source=chrome-ntp-icon | LinkedIn Script
+- https://medium.com/@sector035/gathering-company-intel-the-agile-way-6db12ca031c9 | guide by sector035
+- https://www.intelligencewithsteve.com/post/a-guide-to-searching-linkedin-by-email-address | Another way to search LinkedIn by email address
+- https://www.list-org.com/ | List-Org Russian Companies
+- https://www.qichacha.com/ | Qichacha Chinese Companies
+- https://beta.companieshouse.gov.uk/ | Companies House UK Companies
+- https://e-justice.europa.eu/content_business_registers_in_member_states-106-de-en.do?member=1 | EU National Registries
 - http://news.bbc.co.uk/2/hi/country_profiles/default.stm | BBC Country Profiles
 
 - https://ceoemail.com/ | Ceomail
