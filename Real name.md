@@ -1,57 +1,57 @@
-- https://searchmy.bio/ | Search my bio
-- https://truepeoplesearch.com/ | True People Search
-- https://fastpeoplesearch.com/ | Fast People Search
-- https://nuwber.com/ | Nuwber
-- https://xlek.com/ | XLEK
-- https://familytreenow.com/ | Family Tree Now
-- https://intelius.com/ | Intelius
-- https://radaris.com/ | Radaris
-- https://ufind.name/ | UFind
-- https://spytox.com/ | Spytox
-- https://searchpeoplefree.com/ | Search People Free
-- https://johndoe.com/ | John Doe
-- https://thatsthem.com/ | That’s Them
-- https://spokeo.com/ | Spokeo
-- https://advancedbackgroundchecks.com/ | Advanced Background Checks
-- https://yasni.com/ | Yasni
-- https://zabasearch.com/ | Zaba Search
-- https://peoplesearchnow.com/ | People Search Now
-- https://webmii.com/ | WebMii
-- https://social-searcher.com/ | Social Searcher
-- https://truthfinder.com/ | Truth Finder
-- https://peoplenyname.com/ | People By Name
-- https://whitepages.com/ | White Pages
-- https://findpeoplesearch.com/ |Find People Search
-- https://publicrecords.directory/ | Public Records
-- https://publicemailrecords.com/name_search | Public Mail Records
-- https://whoodle.com/ | Whoodle
-- https://howmanyofme.com/ | How Many Of Me
-- https://classmates.com/ | Classmates
-- https://cvmaker.com/ | CV Maker
-- https://indeed.com/ | Indeed
-- https://www.theknot.com/registry/couplesearch | The Knot
-- https://registry.thebump.com/babyregistrysearch | The Bump
-- https://www.amazon.com/baby-reg/homepage/ | Amazon Baby
-- https://www.amazon.com/wedding | Amazon Wedding
-- https://www.target.com/gift-registry/ | Target Wedding
-- https://www.target.com/gift-registry/baby-registry | Target Baby
-- https://www.myregistry.com/kohls-wedding-registry.aspx | Kohl’s Weddin
-- https://www.registryfinder.com/ | Registry Finder
-- https://www.myregistry.com/ | My Registry
-- https://www.fastpeoplesearch.com/ | Fast People Search
-- https://www.whitepages.com/ | White Pages
-- https://www.peoplefinder.com/reverse-address-lookup | People Finder
-- https://www.peoplesearchnow.com/ | People Search Now
-- https://www.truepeoplesearch.com/ | True People Search
-- https://radaris.com/ | Radaris
-- https://www.intelius.com/property-records | Intelius
-- https://www.advancedbackgroundchecks.com/address.aspx | Advanced Background Checks
-- https://www.spokeo.com/reverse-address-search | Spokeo
-- https://thatsthem.com/reverse-address-lookup | That’s Them
-- https://homemetry.com/ | Homemetry
-- https://www.peoplesearch.com.au/People_Search_by_Location/ | Australia
-- https://www.canadapages.com/ | Canada
-- https://www.infobel.com/en/Canada | Canada
+- https://searchmy.bio/ | Search my bio
+- https://truepeoplesearch.com/ | True People Search
+- https://fastpeoplesearch.com/ | Fast People Search
+- https://nuwber.com/ | Nuwber
+- https://xlek.com/ | XLEK
+- https://familytreenow.com/ | Family Tree Now
+- https://intelius.com/ | Intelius
+- https://radaris.com/ | Radaris
+- https://ufind.name/ | UFind
+- https://spytox.com/ | Spytox
+- https://searchpeoplefree.com/ | Search People Free
+- https://johndoe.com/ | John Doe
+- https://thatsthem.com/ | That’s Them
+- https://spokeo.com/ | Spokeo
+- https://advancedbackgroundchecks.com/ | Advanced Background Checks
+- https://yasni.com/ | Yasni
+- https://zabasearch.com/ | Zaba Search
+- https://peoplesearchnow.com/ | People Search Now
+- https://webmii.com/ | WebMii
+- https://social-searcher.com/ | Social Searcher
+- https://truthfinder.com/ | Truth Finder
+- https://peoplenyname.com/ | People By Name
+- https://whitepages.com/ | White Pages
+- https://findpeoplesearch.com/ | Find People Search
+- https://publicrecords.directory/ | Public Records
+- https://publicemailrecords.com/name_search | Public Mail Records
+- https://whoodle.com/ | Whoodle
+- https://howmanyofme.com/ | How Many Of Me
+- https://classmates.com/ | Classmates
+- https://cvmaker.com/ | CV Maker
+- https://indeed.com/ | Indeed
+- https://www.theknot.com/registry/couplesearch | The Knot
+- https://registry.thebump.com/babyregistrysearch | The Bump
+- https://www.amazon.com/baby-reg/homepage/ | Amazon Baby
+- https://www.amazon.com/wedding | Amazon Wedding
+- https://www.target.com/gift-registry/ | Target Wedding
+- https://www.target.com/gift-registry/baby-registry | Target Baby
+- https://www.myregistry.com/kohls-wedding-registry.aspx | Kohl’s Weddin
+- https://www.registryfinder.com/ | Registry Finder
+- https://www.myregistry.com/ | My Registry
+- https://www.fastpeoplesearch.com/ | Fast People Search
+- https://www.whitepages.com/ | White Pages
+- https://www.peoplefinder.com/reverse-address-lookup | People Finder
+- https://www.peoplesearchnow.com/ | People Search Now
+- https://www.truepeoplesearch.com/ | True People Search
+- https://radaris.com/ | Radaris
+- https://www.intelius.com/property-records | Intelius
+- https://www.advancedbackgroundchecks.com/address.aspx | Advanced Background Checks
+- https://www.spokeo.com/reverse-address-search | Spokeo
+- https://thatsthem.com/reverse-address-lookup | That’s Them
+- https://homemetry.com/ | Homemetry
+- https://www.peoplesearch.com.au/People_Search_by_Location/ | Australia
+- https://www.canadapages.com/ | Canada
+- https://www.infobel.com/en/Canada | Canada
 - https://www.infobel.com/en/France | France 
 - https://www.infobel.com/en/Germany | Germany
 - https://www.infobel.com/en/Spain | Spain
