@@ -1,4 +1,5 @@
 - https://carnet.ai/ | Upload photo for AI match
+- https://search.0t.rocks | Illicit Services
 - http://mmr-demo.orpix-inc.com/detection/main/ | Upload image or URL
 - https://www.vehiclehistory.com/ | Plate or VIN Search
 - https://www.carvana.com/sell-my-car/getoffer/vehicle?licensePlate=&plateState= | Sell or Trade in Your Car Online - Carvana
