@@ -1,0 +1,6 @@
+- https://github.com/mxrch/revealin | GitHub - mxrch/revealin: Uncover the full name of a target on Linkedin.
+- https://github.com/m8sec/CrossLinked | GitHub - m8sec/CrossLinked: LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
+- https://github.com/eth0izzle/the-endorser | GitHub - eth0izzle/the-endorser: An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
+- https://github.com/laramies/theHarvester | GitHub - laramies/theHarvester: E-mails, subdomains and names Harvester - OSINT
+- https://github.com/lanmaster53/recon-ng | GitHub - lanmaster53/recon-ng: Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
+- https://dfir.blog/unfurl/ | unfurl
