@@ -1,3 +1,4 @@
+- https://search.0t.rocks | Illicit Services
 - https://freecarrierlookup.com | unlimited search, best details about VOIP
 - https://carrierlookup.com | one free lookup per day
 - https://twilio.com/lookup | Twilio
