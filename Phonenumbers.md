@@ -1,6 +1,6 @@
-- https://freecarrierlookup.com | unlimited search, best details about VOIP
-- https://carrierlookup.com | one free lookup per day
-- https://twilio.com/lookup | Twilio
+- https://freecarrierlookup.com | unlimited search, best details about VOIP
+- https://carrierlookup.com | one free lookup per day
+- https://twilio.com/lookup | Twilio
 - https://opencnam.com | Open CNAM Caller ID Service 
 - https://calleridservice.com | Bulk Solutions
 - https://bulkcnam.com | Everyone API
