@@ -1,26 +1,24 @@
 - https://www.remove.bg/ | Remove Background from Image for Free – remove.bg
-- https://images.google.com/ | Google Images
+- https://images.google.com/ | Google Images
 - https://neural.love/image-sharpen | AI Image Sharpener, Try It for Free | neural.love
-- https://bing.com/images | Bing Images
-- https://images.google.com/ | Google Reverse Image Search
-- https://images.google.com/ | Google Afbeeldingen
+- https://bing.com/images | Bing Images
+- https://images.google.com/ | Google Reverse Image Search
 - https://cleanup.pictures/ | Cleanup.pictures - Remove objects, people, text and defects from any picture for free
-- https://bing.com/images | Bing Reverse Image Search
-- https://tineye.com/ | TinEye Reverse Image Search
-- https://images.yandex.com/ | Yandex Images
+- https://tineye.com/ | TinEye Reverse Image Search
+- https://images.yandex.com/ | Yandex Images
 - https://pimeyes.com/en | PimEyes: Face Recognition Search Engine and Reverse Image Search
-- https://graph.baidu.com/ | Baidu Images
-- https://www.google.com/searchbyimage?site=search&sa=X&image_url=https://inteltechniques.com/img/book1.png | Google Direct URL
-- https://www.bing.com/images/searchbyimage?FORM=IRSBIQ&cbir+sbi&imgurl=https://inteltechniques.com/img/book1.png | Bing Direct URL
-- https://www.tineye.com/search/?url=https://inteltechniques.com/img/book1.png%20 | TinEye Direct URL
-- https://www.yandex.com/images/search?img_url=https://inteltechniques.com/img/book1.png&rpt=imageview | Yandex Direct URL
-- https://graph.baidu.com/details?isfromtusoupc=1&tn=pc&carousel=0&image=&image=https://inteltechniques.com/img/book1.png | Baidu Direct URL
-- https://karmadecay.com/ | Karma Decay
-- https://rootabout.com/ | Root About
-- https://imageidentify.com/ | Wolfram Image Identification Project
-- https://pictriev.com/ | Pictriev
-- https://flickr.com/ | Flickr
-- https://flickr.com/map | Flickr Map
-- https://www.flickr.com/services/api | Flickr API Key
+- https://graph.baidu.com/ | Baidu Images
+- https://www.google.com/searchbyimage?site=search&sa=X&image_url= | Google Direct URL
+- https://www.bing.com/images/searchbyimage?FORM=IRSBIQ&cbir+sbi&imgurl= | Bing Direct URL
+- https://www.tineye.com/search/?url= | TinEye Direct URL
+- https://www.yandex.com/images/search?img_url= | Yandex Direct URL
+- https://graph.baidu.com/details?isfromtusoupc=1&tn=pc&carousel=0&image=&image= | Baidu Direct URL
+- https://karmadecay.com/ | Karma Decay
+- https://rootabout.com/ | Root About
+- https://imageidentify.com/ | Wolfram Image Identification Project
+- https://pictriev.com/ | Pictriev
+- https://flickr.com/ | Flickr
+- https://flickr.com/map | Flickr Map
+- https://www.flickr.com/services/api | Flickr API Key
 - https://github.com/ThoughtfulDev/EagleEye | GitHub - ThoughtfulDev/EagleEye: Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - https://github.com/tanaikech/goris | GitHub - tanaikech/goris: This is a CLI tool to search for images with Google Reverse Image Search (goris).
