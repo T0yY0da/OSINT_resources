@@ -2,7 +2,7 @@
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
 - https://viz.greynoise.io/ | GreyNoise Visualizer
 - https://intelx.io/ | Intelligence X
-- https://app.netlas.io/host/ | Host: 143.178.109.149
+- https://app.netlas.io/host/ | 
 - https://www.onyphe.io/ | ONYPHE | Attack Surface Management & Cyber Defense Search Engine
 - https://searchcode.com/ | searchcode | source code search engine
 - https://www.shodan.io/ | Shodan Search Engine
