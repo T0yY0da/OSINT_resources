@@ -2,10 +2,6 @@
 - https://chrome.google.com/webstore/detail/discoverly-for-gmail-link/dijhcpbkalfgkcebgoncjmfpbamihgaf?utm_source=chrome-ntp-icon | LinkedIn Script
 - https://medium.com/@sector035/gathering-company-intel-the-agile-way-6db12ca031c9| guide by sector035
 - https://www.intelligencewithsteve.com/post/a-guide-to-searching-linkedin-by-email-address | Another way to search LinkedIn by email address
-- https://gitlab.com/initstring/linkedin2username | LinkedIn Script
-- https://github.com/eth0izzle/the-endorser | LinkedIn Script
-- https://github.com/0x09AL/raven | LinkedIn Script
-- https://github.com/kussic/arlandria | LinkedIn Script
 - https://www.list-org.com/ | List-Org Russian Companies
 - https://www.qichacha.com/ | Qichacha Chinese Companies
 - https://beta.companieshouse.gov.uk/ | Companies House UK Companies
@@ -30,3 +26,8 @@
 - https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country |Legal Entity Types by Country
 - https://www.ripoffreport.com/ | Ripoff Report
 - https://www.indeed.com/ |Indeed
+
+- https://gitlab.com/initstring/linkedin2username | LinkedIn Script
+- https://github.com/eth0izzle/the-endorser | LinkedIn Script
+- https://github.com/0x09AL/raven | LinkedIn Script
+- https://github.com/kussic/arlandria | LinkedIn Script
