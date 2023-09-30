@@ -1,0 +1,9 @@
+- https://start.me/p/m6XQ08/osint | OSINT - start.me
+- https://rr.reuser.biz/ | OSINT Open Source Intelligence tools resources methods techniques
+- https://www.osintcombine.com/dw-osint-bookmarks | Dark Web OSINT Bookmarks | OSINT Combine
+- https://www.osintcombine.com/osint-bookmarks | OSINT Bookmarks | OSINT Combine
+- https://osintteam.com/people-recon-with-recon-ng/ | People Recon With Recon-ng
+- https://start.me/p/DPYPMz/the-ultimate-osint-collection | The Ultimate OSINT Collection - start.me
+- https://github.com/ranlo/osintsummit-2023-resources | GitHub - ranlo/osintsummit-2023-resources: A categorized list of resources presented during the 2023 Sans OSINTSummit
+- https://seintpl.github.io/ | SEINT_pl | seintpl.github.io
+- http://cybdetective.com/osintmap/ | Worldmap of OSINT tools
