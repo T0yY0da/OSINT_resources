@@ -1,4 +1,5 @@
 - http://metricsparrow.com/toolkit/email-permutator/ | Email Permutator | Metric Sparrow Toolkit
+- https://search.0t.rocks | Illicit Services
 - https://haveibeenpwned.com/unifiedsearch/ | Breach Search
 - https://portal.spycloud.com/endpoint/enriched-stats/  | SpyCloud 
 - https://dehashed.com/  | DeHashed 
