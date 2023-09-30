@@ -6,3 +6,8 @@
 - https://github.com/eth0izzle/the-endorser | LinkedIn Script
 - https://github.com/0x09AL/raven | LinkedIn Script
 - https://github.com/kussic/arlandria | LinkedIn Script
+- https://www.list-org.com/ | List-Org Russian Companies
+- https://www.qichacha.com/ | Qichacha Chinese Companies
+- https://beta.companieshouse.gov.uk/ | Companies House UK Companies
+- https://e-justice.europa.eu/content_business_registers_in_member_states-106-de-en.do?member=1 | EU National Registries
+- http://news.bbc.co.uk/2/hi/country_profiles/default.stm |BBC Country Profiles
