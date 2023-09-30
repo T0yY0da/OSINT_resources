@@ -1,5 +1,5 @@
-- https://exif.regex.info/exif.cgi | Jeffery’s Exif Viewer
-- https://cameratrace.com/trace | Camera Trace
-- https://online-barcode-reader.inlitersearch.com/ | Online Barcode Reader
-- https://fotoforensics.com/ | Foto Forensics
-- https://29a.ch/photo-forensics | Forensically
+- https://exif.regex.info/exif.cgi | Jeffery’s Exif Viewer
+- https://cameratrace.com/trace | Camera Trace
+- https://online-barcode-reader.inlitersearch.com/ | Online Barcode Reader
+- https://fotoforensics.com/ | Foto Forensics
+- https://29a.ch/photo-forensics | Forensically
