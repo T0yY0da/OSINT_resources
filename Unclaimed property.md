@@ -1,0 +1,14 @@
+- https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/unclaimed-property-states.html | FDIC: Unclaimed Property Information by State
+- https://unclaimed.org/search/ | Search for your unclaimed property (it’s free) – National Association of Unclaimed Property Administrators (NAUPA)
+- https://webapps.dol.gov/wow/ | Workers Owed Wages (WOW)
+- https://fiscal.treasury.gov/unclaimed-assets.html | Bureau of the Fiscal Service - Unclaimed Assets
+- https://findmyfunds.com/ | Unclaimed Property Search | Securely Search UnClaimed Money
+- https://www.missingmoney.com/en/ | MissingMoney.com
+- https://benefitscheckup.org/program/assistance_fd_unclaimed_assets | Unclaimed Property (NAUPA) – All 50 States
+- https://nast.org/unclaimed-bonds/ | Unclaimed Property – National Association of State Treasurers (NAST)
+- https://osint.fans/full-address-search-unclaimed-money-portal | Full Address Search with the Unclaimed Money Portal 
+- https://www.einvestigator.com/unclaimed-property-research/ | How to Find Unclaimed Money
+- https://ucpi.sco.ca.gov/en/Property/SearchIndex | Unclaimed Property
+- https://www.nevadatreasurer.gov/Unclaimed_Property/Search_UP/ | Search UP
+- https://claims.nevadaunclaimedproperty.gov/en/Property/SearchIndex | Welcome to the Unclaimed Property Search Portal
+- https://www.usa.gov/unclaimed-money | Unclaimed Money from the Government | USAGov
