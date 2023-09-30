@@ -27,7 +27,7 @@
 - https://www.ripoffreport.com/ | Ripoff Report
 - https://www.indeed.com/ | Indeed
 
-- https://gitlab.com/initstring/linkedin2username | LinkedIn Script
-- https://github.com/eth0izzle/the-endorser | LinkedIn Script
-- https://github.com/0x09AL/raven | LinkedIn Script
-- https://github.com/kussic/arlandria | LinkedIn Script
+- https://gitlab.com/initstring/linkedin2username | LinkedIn Script
+- https://github.com/eth0izzle/the-endorser | LinkedIn Script
+- https://github.com/0x09AL/raven | LinkedIn Script
+- https://github.com/kussic/arlandria | LinkedIn Script
