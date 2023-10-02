@@ -1,12 +1,16 @@
+# Current favorites
 - https://dnsdumpster.com/ | DNSdumpster.com - dns recon and research, find and lookup dns records
+- https://app.netlas.io/host/ 
+- https://urlscan.io/ | URL and website scanner - urlscan.io
+- https://www.virustotal.com/gui/home/upload | VirusTotal
+- https://search.0t.rocks/ | Illicit Services
+
+# Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
 - https://viz.greynoise.io/ | GreyNoise Visualizer
 - https://intelx.io/ | Intelligence X
-- https://app.netlas.io/host/ | 
 - https://www.onyphe.io/ | ONYPHE | Attack Surface Management & Cyber Defense Search Engine
 - https://searchcode.com/ | searchcode | source code search engine
 - https://www.shodan.io/ | Shodan Search Engine
-- https://urlscan.io/ | URL and website scanner - urlscan.io
-- https://www.virustotal.com/gui/home/upload | VirusTotal
 - https://search.censys.io/ | Censys
-- https://search.0t.rocks/ | Illicit Services
+
