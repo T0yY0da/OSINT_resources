@@ -1,4 +1,8 @@
+# Current favorites
+- https://github.com/sinwindie/OSINT | Very useful flowcharts and bookmarklets
 - http://cybdetective.com/osintmap/ | Worldmap of OSINT tools
+
+# Other good options
 - https://start.me/p/m6XQ08/tools | Technisette OSINT tool collection
 - https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list | Nixintel's OSINT Resource list
 - https://start.me/p/DPYPMz/the-ultimate-osint-collection | The Ultimate OSINT Collection - hatless1der
@@ -8,4 +12,3 @@
 - https://osintteam.com/people-recon-with-recon-ng/ | People Recon With Recon-ng
 - https://github.com/ranlo/osintsummit-2023-resources | GitHub - ranlo/osintsummit-2023-resources: A categorized list of resources presented during the 2023 Sans OSINTSummit
 - https://seintpl.github.io/ | SEINT_pl | seintpl.github.io
-
