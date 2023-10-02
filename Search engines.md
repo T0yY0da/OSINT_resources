@@ -12,6 +12,7 @@
 
 # Other good options
 - https://www.google.com/advanced_search | Google Advanced Search
+- https://dorksearch.com | Speed up your Google Dorking with Dork AI
 - https://search.yahoo.com/web/advanced | Yahoo Advanced Search         
 - https://web.archive.org/web/*/name | Wayback machine name search
 - http://www.exalead.com/ | Exalead Search Engine
