@@ -1,6 +1,7 @@
 # Current favorites
 - https://github.com/sinwindie/OSINT | Very useful flowcharts and bookmarklets
 - http://cybdetective.com/osintmap/ | Worldmap of OSINT tools
+- https://metaosint.github.io/ | Visual map of OSINT sources and tools
 
 # Other good options
 - https://start.me/p/m6XQ08/tools | Technisette OSINT tool collection
