@@ -1,9 +1,6 @@
-- https://www.remove.bg/ | Remove Background from Image for Free – remove.bg
+# Reverse image search engines
 - https://images.google.com/ | Google Images
-- https://neural.love/image-sharpen | AI Image Sharpener, Try It for Free | neural.love
 - https://bing.com/images | Bing Images
-- https://images.google.com/ | Google Reverse Image Search
-- https://cleanup.pictures/ | Cleanup.pictures - Remove objects, people, text and defects from any picture for free
 - https://tineye.com/ | TinEye Reverse Image Search
 - https://images.yandex.com/ | Yandex Images
 - https://pimeyes.com/en | PimEyes: Face Recognition Search Engine and Reverse Image Search
@@ -13,12 +10,27 @@
 - https://www.tineye.com/search/?url= | TinEye Direct URL
 - https://www.yandex.com/images/search?img_url= | Yandex Direct URL
 - https://graph.baidu.com/details?isfromtusoupc=1&tn=pc&carousel=0&image=&image= | Baidu Direct URL
-- https://karmadecay.com/ | Karma Decay
+- https://karmadecay.com/ | designed specifically for Reddit
+- https://facecheck.id/ | Find people by photo
+- http://www.pictriev.com/ | Face search
+- https://vk.watch/ | VK image search
+- https://search4faces.com/en/ | Reverse image search for faces
+- 
+
+- 
+# Image tools
+- https://www.remove.bg/ | Remove Background from Image for Free – remove.bg
+- https://www.alamy.com/ | For checking if an image is a stock image.
+- https://neural.love/image-sharpen | AI Image Sharpener, Try It for Free | neural.love
+- https://cleanup.pictures/ | Cleanup.pictures - Remove objects, people, text and defects from any picture for free
 - https://rootabout.com/ | Root About
 - https://imageidentify.com/ | Wolfram Image Identification Project
 - https://pictriev.com/ | Pictriev
 - https://flickr.com/ | Flickr
 - https://flickr.com/map | Flickr Map
 - https://www.flickr.com/services/api | Flickr API Key
+
+
+# Github tools / automation
 - https://github.com/ThoughtfulDev/EagleEye | GitHub - ThoughtfulDev/EagleEye: Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - https://github.com/tanaikech/goris | GitHub - tanaikech/goris: This is a CLI tool to search for images with Google Reverse Image Search (goris).
