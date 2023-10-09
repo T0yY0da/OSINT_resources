@@ -14,6 +14,8 @@
 - https://ingramer.com/downloader/instagram/video/ | Ingramer Video Downloader
 - https://ingramer.com/tools/stories-viewer/ | Instagram Story Viewer: Get Access To Content Anonymously
 - https://www.instafollowers.co/download-instagram-stories | Download Instagram Stories and Highlights - Online,Free Views
+
+# Github tools / automation
 - https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai?hl=en | Instagram Downloader - Chrome Web Store
 - https://github.com/Datalux/Osintgram | GitHub - Datalux/Osintgram: Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - https://github.com/xadhrit/terra | GitHub - xadhrit/terra: OSINT Tool on Twitter and Instagram.
