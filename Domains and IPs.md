@@ -15,3 +15,5 @@
 - https://search.censys.io/ | Censys
 - https://builtwith.com/ | Find out what websites are Built With
 
+# Github tools / Automation
+- https://www.whatismybrowser.com/developers/tools/wget-wizard/ | wget wizard
