@@ -6,6 +6,7 @@
 - https://archive.md/ | Webpage archive
 - https://web.archive.org/web/*/chicago.gov | Wayback Machine
 - https://ahmia.fi/search/
+- https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1 | PSE for Telegram
 
 # Github tools / automation
 - https://github.com/ResearchandDestroy/DorXNG | Tool for harvesting OSINT data using advanced search engine operators through multiple upstream search providers.
