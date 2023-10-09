@@ -1,4 +1,8 @@
-- https://start.me/p/rxeRqr/aml-toolbox | Business research links
+# Current favorites
+- https://cse.google.com/cse?cx=8731717bd72004243 | PSE for company research
+
+# Other good options
+- https://www.whatismybrowser.com/developers/tools/wget-wizard | https://start.me/p/rxeRqr/aml-toolbox | Business research links
 - https://chrome.google.com/webstore/detail/discoverly-for-gmail-link/dijhcpbkalfgkcebgoncjmfpbamihgaf?utm_source=chrome-ntp-icon | LinkedIn Script
 - https://medium.com/@sector035/gathering-company-intel-the-agile-way-6db12ca031c9 | guide by sector035
 - https://www.intelligencewithsteve.com/post/a-guide-to-searching-linkedin-by-email-address | Another way to search LinkedIn by email address
@@ -27,6 +31,7 @@
 - https://www.ripoffreport.com/ | Ripoff Report
 - https://www.indeed.com/ | Indeed
 
+# Github tools / Automation 
 - https://gitlab.com/initstring/linkedin2username | LinkedIn Script
 - https://github.com/eth0izzle/the-endorser | LinkedIn Script
 - https://github.com/0x09AL/raven | LinkedIn Script
