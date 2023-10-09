@@ -1,0 +1,1 @@
+- https://buckets.grayhatwarfare.com/ | Accidentaly open S3 buckets
