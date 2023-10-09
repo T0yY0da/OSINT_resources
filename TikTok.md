@@ -10,6 +10,8 @@
 - https://www.influencegrid.com/ | Find TikTok Influencers Now - Influence Grid
 - https://en.savefrom.net/189/download-from-tiktok | Download TikTok Videos Easily - SaveFrom TikTok Downloader
 - https://dfir.blog/unfurl/ | unfurl
+
+# Github tools / Automation
 - https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools | OSINT/Bookmarklet Tools at master · sinwindie/OSINT · GitHub
 - https://github.com/drawrowfly/tiktok-scraper | GitHub - drawrowfly/tiktok-scraper: TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - https://github.com/sc1341/InstagramOSINT | GitHub - sc1341/InstagramOSINT: An Instagram Open Source Intelligence Tool
