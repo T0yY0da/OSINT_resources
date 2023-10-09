@@ -1,5 +1,9 @@
+# Current favorites
 - http://metricsparrow.com/toolkit/email-permutator/ | Email Permutator | Metric Sparrow Toolkit
 - https://search.0t.rocks | Illicit Services
+
+  
+# Other good options
 - https://haveibeenpwned.com/unifiedsearch/ | Breach Search
 - https://portal.spycloud.com/endpoint/enriched-stats/  | SpyCloud 
 - https://dehashed.com/  | DeHashed 
@@ -23,8 +27,10 @@
 - http://analyzeid.com/ | Analyze ID
 - https://en.gravatar.com/site/check/ | Gravatar - Globally Recognized Avatars
 - https://viewdns.info/reversewhois/ | whois reverse email search
-- https://www.spiderfoot.net/ | Automated API Execution for Email Search
 - https://www.aware-online.com/en/email-to-twitter-account/ | Guide on Trusted Provider Method
+- 
+# Github tools / automation
+- https://www.spiderfoot.net/ | Automated API Execution for Email Search
 - https://github.com/lanmaster53/recon-ng | Advanced OSINT Command Line Tool Linux
 - https://github.com/DataSploit/datasploit | OSINT Script - Email, phone numbers, etc Linux
 - https://github.com/Ekultek/WhatBreach | Identifies Breach Data Containing Target Email Linux
