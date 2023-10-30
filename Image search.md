@@ -1,3 +1,6 @@
+# Current favorites
+- https://29a.ch/photo-forensics/ | Photo forensics
+
 # Reverse image search engines
 - https://images.google.com/ | Google Images
 - https://bing.com/images | Bing Images
