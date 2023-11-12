@@ -4,6 +4,7 @@
 - https://urlscan.io/ | URL and website scanner - urlscan.io
 - https://www.virustotal.com/gui/home/upload | VirusTotal
 - https://search.0t.rocks/ | Illicit Services
+- https://www.netify.ai/ | Network Intel
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
