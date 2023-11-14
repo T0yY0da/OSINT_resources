@@ -1,6 +1,7 @@
 # Current favorites
 - http://metricsparrow.com/toolkit/email-permutator/ | Email Permutator | Metric Sparrow Toolkit
 - https://search.0t.rocks | Illicit Services
+- https://epieos.com/ | Nice email intel
 
   
 # Other good options
