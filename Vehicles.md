@@ -2,6 +2,7 @@
 - https://carnet.ai/ | Upload photo for AI match
 - https://www.partialnumberplate.co.uk/ | Partial lincense plate nr search for UK
 - https://search.0t.rocks | Illicit Services
+- https://platerecognizer.com/ | Automatic License Plate Recognition software that works in all environments, optimized for your location.
 
 # Other good options
 - http://mmr-demo.orpix-inc.com/detection/main/ | Upload image or URL
