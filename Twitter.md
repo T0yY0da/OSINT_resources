@@ -1,3 +1,7 @@
+# Current favorites:
+- https://nitter.net | Nitter is a free and open source alternative Twitter front-end focused on privacy and performance.
+
+# Other good options
 - https://twitter.com/search-advanced
 - https://twitter.com/i/directory/profiles | Allows you to browse through profiles alphabetically
 - https://twitter.com/%5busername%5d/media
