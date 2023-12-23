@@ -1,5 +1,6 @@
 # Current favorites
 - https://cse.google.com/cse?cx=8731717bd72004243 | PSE for company research
+- https://openkvk.nl | Open-source version of Dutch Chamber of Commerce
 
 # Other good options
 - https://www.whatismybrowser.com/developers/tools/wget-wizard | https://start.me/p/rxeRqr/aml-toolbox | Business research links
