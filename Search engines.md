@@ -8,6 +8,9 @@
 - https://ahmia.fi/search/
 - https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1 | PSE for Telegram
 
+# Google Dorks
+- https://github.com/Ishanoshada/GDorks | Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
+
 # Github tools / automation
 - https://github.com/ResearchandDestroy/DorXNG | Tool for harvesting OSINT data using advanced search engine operators through multiple upstream search providers.
 
