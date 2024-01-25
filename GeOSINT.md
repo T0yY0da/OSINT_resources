@@ -5,6 +5,7 @@
 - https://mapchannels.com/DualMaps.aspx | Google Maps, Street View & Birds Eye on one page
 - https://www.smappen.com | Calculating drive time radius
 - https://geospy.web.app/ | AI for geolocation
+- https://picarta.ai/ | AI for geolocation
 
 
 # Other good options
