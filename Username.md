@@ -1,7 +1,8 @@
 # Current favorites
 - https://search.0t.rocks/records?usernames= | Illicit services
 
-
+# Browser extensions
+- https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
 # Other good options
 - https://namemc.com/name/username
 - https://haveibeenpwned.com/unifiedsearch/username | haveibeenpwned.com  username
@@ -52,7 +53,7 @@
 - https://usersearch.org/index.php | People Search Engine
 - https://whatsmyname.app/ | Whatsmyname Osintcombine
 
-# Github tools / Automationusername
+# Github tools / Automation
 - https://github.com/soxoj/maigret | GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - https://github.com/p1ngul1n0/blackbird | GitHub - p1ngul1n0/blackbird: An OSINT tool to search for accounts by username in social networks.
 - https://github.com/sherlock-project/sherlock | GitHub - sherlock-project/sherlock: 🔎 Hunt down social media accounts by username across social networks
