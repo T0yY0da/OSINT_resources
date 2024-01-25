@@ -4,6 +4,7 @@
 - https://openstreetcam.org/ | Useful for locating public facing cameras
 - https://mapchannels.com/DualMaps.aspx | Google Maps, Street View & Birds Eye on one page
 - https://www.smappen.com | Calculating drive time radius
+- https://geospy.web.app/ | AI for geolocation
 
 
 # Other good options
