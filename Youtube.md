@@ -1,0 +1,1 @@
+- https://mattw.io/youtube-metadata/ | MW Metadata normal grabs singular details about a YouTube video and its uploader, playlist and its creator, or channel.
