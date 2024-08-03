@@ -3,9 +3,9 @@
 - https://app.netlas.io/host/ 
 - https://urlscan.io/ | URL and website scanner - urlscan.io
 - https://www.virustotal.com/gui/home/upload | VirusTotal
-- https://search.0t.rocks/ | Illicit Services
 - https://www.netify.ai/ | Network Intel
 - https://github.com/trickest/inventory | Asset inventory of over 800 public bug bounty programs, contains large domain lists.
+- https://iknowwhatyoudownload.com/ | Torrent downloads and distributions for IP
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
