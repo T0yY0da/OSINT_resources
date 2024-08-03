@@ -71,3 +71,4 @@
 # Github tools / automation
 - https://github.com/david-r-edgar/MapSwitcher | Multi map service Chrome extension
 - https://github.com/r3mlab/tweetsmapper | Map tweets via script (if API geo data exists)
+- https://github.com/GONZOsint/geowifi | Search WiFi geolocation data by BSSID and SSID on different public databases.
