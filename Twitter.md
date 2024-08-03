@@ -37,6 +37,7 @@
 - https://threadreaderapp.com/ | Display by thread
 - https://www.labnol.org/internet/twitter-search-tricks/13693/ | Collection of Twitter search tactics
 - https://web.archive.org/web/*?twitter.com/accountname | deleted tweets
+- https://synapsint.com/ | The unified OSINT research tool
 
 # Github tools / automation
 - https://github.com/twintproject/twint | Twitter collection script 
