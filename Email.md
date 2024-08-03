@@ -2,6 +2,7 @@
 - http://metricsparrow.com/toolkit/email-permutator/ | Email Permutator | Metric Sparrow Toolkit
 - https://epieos.com/ | Nice email intel
 - https://keys.openpgp.org/ | email linked to pgp keys
+- https://inteltechniques.com/tools/Email.html | Bulk search various tools
 
   
 # Other good options
