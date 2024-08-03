@@ -1,3 +1,8 @@
+# Current favorites
+- https://inteltechniques.com/tools/Instagram.html | Bulk search various tools
+
+  
+# Other good options
 - https://fulldp.co/instagram-full-size-profile-picture/ | Instagram Profile Picture View & Download Full Size [ HD ] dp viewer - Full DP
 - https://downloadgram.com/ | Downloadgram
 - https://indown.io/ | Instagram Video Downloader | Fast & Secure
@@ -15,6 +20,7 @@
 - https://ingramer.com/tools/stories-viewer/ | Instagram Story Viewer: Get Access To Content Anonymously
 - https://www.instafollowers.co/download-instagram-stories | Download Instagram Stories and Highlights - Online,Free Views
 - https://exportcomments.com/ | Easily exports all comments from your social media posts to Excel file.
+- https://instanavigation.com/ | View instagram anonymously
 
 # Github tools / automation
 - https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai?hl=en | Instagram Downloader - Chrome Web Store
