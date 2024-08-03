@@ -10,6 +10,7 @@
 - https://www.influencegrid.com/ | Find TikTok Influencers Now - Influence Grid
 - https://en.savefrom.net/189/download-from-tiktok | Download TikTok Videos Easily - SaveFrom TikTok Downloader
 - https://dfir.blog/unfurl/ | unfurl
+- https://exportcomments.com/ | Easily exports all comments from your social media posts to Excel file.
 
 # Github tools / Automation
 - https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools | OSINT/Bookmarklet Tools at master · sinwindie/OSINT · GitHub
