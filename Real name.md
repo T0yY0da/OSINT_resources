@@ -1,5 +1,5 @@
 - https://searchmy.bio/ | Search my bio
-- https://search.0t.rocks | Illicit Services
+- https://seintpl.github.io/NAMINT/ | possible search patterns and links for names
 - https://truepeoplesearch.com/ | True People Search
 - https://fastpeoplesearch.com/ | Fast People Search
 - https://nuwber.com/ | Nuwber
