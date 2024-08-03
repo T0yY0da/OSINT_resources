@@ -1,1 +1,2 @@
 - https://mattw.io/youtube-metadata/ | MW Metadata normal grabs singular details about a YouTube video and its uploader, playlist and its creator, or channel.
+- https://exportcomments.com/ | Easily exports all comments from your social media posts to Excel file.
