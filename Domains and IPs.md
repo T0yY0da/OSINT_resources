@@ -1,4 +1,6 @@
 # Current favorites
+- https://inteltechniques.com/tools/Domain.html
+- https://inteltechniques.com/tools/IP.html
 - https://synapsint.com/ | The unified OSINT research tool
 - https://dnsdumpster.com/ | DNSdumpster.com - dns recon and research, find and lookup dns records
 - https://app.netlas.io/host/ 
