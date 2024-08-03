@@ -8,6 +8,7 @@
 - https://ahmia.fi/search/
 - https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1 | PSE for Telegram
 
+
 # Google Dorks
 - https://github.com/Ishanoshada/GDorks | Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
 
@@ -37,3 +38,4 @@
 - https://nerdydata.com/ | NerdyData.com - Search The Web's Source Code for Technologies
 - https://cse.google.com/cse/ | Custom Search Engine
 - https://www.deepl.com/translator | DeepL Translator
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/search-engines | A list of search engines for finding basically anything.
