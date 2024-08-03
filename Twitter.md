@@ -39,6 +39,9 @@
 - https://web.archive.org/web/*?twitter.com/accountname | deleted tweets
 - https://synapsint.com/ | The unified OSINT research tool
 - https://exportcomments.com/ | Easily exports all comments from your social media posts to Excel file.
+- https://intelx.io/tools?tab=twitter | IntelX Twitter search
+- http://geosocialfootprint.com/ |  combined bits of location information that a user divulges through social media.
+- https://twiangulate.com/search/ | Helps with mapping connections between Twitter friends and followers and provides analytics.
 
 # Github tools / automation
 - https://github.com/twintproject/twint | Twitter collection script 
