@@ -1,4 +1,5 @@
 # Current Favorites
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint | A collection of online resources and tools to assist with GEOINT investigations.
 - https://openinframap.org/ | Open infrastructure map
 - https://earth.google.com/web/ 
 - https://openstreetcam.org/ | Useful for locating public facing cameras
