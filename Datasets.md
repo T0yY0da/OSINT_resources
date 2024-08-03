@@ -1,2 +1,2 @@
 - https://www.data-is-plural.com/
-- 
+- https://ddosecrets.com/article/parler | Distributed Denial of Secrets for Parler
