@@ -4,10 +4,26 @@
 - https://t.me/osint_maigret_bot | maigret tool as telegram bot
 - https://seintpl.github.io/imagstodon/ | Enter nickname to search for profile images on 100+ Mastodon instances
 
+# Bulk searches
+- https://whatsmyname.app/ | WhatsMyName Web
+- https://knowem.com/checksocialnames.php?u=username | KnowEm UserName Check
+- https://usersearch.org/results_advanced.php?URL_username=username | Username Search
+- https://namevine.com/#/username | Namevine
+- https://www.peekyou.com/username=username | Peekyou
+- https://www.social-searcher.com/search-users/?q6=username | Social Searcher
+- https://www.searchmy.bio/search?q=username | username Instagram searchmy.bio
+- https://www.snapdex.com/list?search=username | Popular Snapchat Names - Snapdex
+- https://www.google.com/search?q=%22username%22 | "username" - Google Search
+- https://www.bing.com/search?q=%22username%22 | "username" - Bing
+- https://yandex.com/search/?text=%22username%22&lr=91 | "username" — Yandex
+- https://www.namechk.com/ | Namechk Username Search
+- https://www.namecheckr.com/ | Namecheckr Username Search
+- https://instantusername.com/#/ | Check username as you type
+- https://searchpof.com/ | This just does a google CSE search on Plentyoffish.com
+- https://usersearch.org/index.php | People Search Engine
+- https://whatsmyname.app/ | Whatsmyname Osintcombine
 
-# Browser extensions
-- https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
-# Other good options
+# Username in URL and specific searches
 - https://namemc.com/name/username
 - https://haveibeenpwned.com/unifiedsearch/username | haveibeenpwned.com  username
 - https://dehashed.com/search?query=%22username | "username — DeHashed
@@ -15,22 +31,14 @@
 - https://psbdmp.ws/api/search/username | psbdmp.ws username
 - https://www.deviantart.com/username | Deviant Art
 - https://www.youtube.com/results?search_query=username
-- https://whatsmyname.app/ | WhatsMyName Web
 - https://www.twitch.tv/username
 - https://www.reddit.com/user/username
 - https://mixer.com/api/v1/channels/username
 - https://discordhub.com/user/search | Discord 3rd party user search
 - https://www.xboxgamertag.com/search/username
-- https://knowem.com/checksocialnames.php?u=username | KnowEm UserName Check
-- https://usersearch.org/results_advanced.php?URL_username=username | Username Search
-- https://namevine.com/#/username | Namevine
 - https://steamcommunity.com/id/username
-- https://www.peekyou.com/username=username | Peekyou
-- https://www.social-searcher.com/search-users/?q6=username | Social Searcher
 - https://api.skype.com/users/username/ 
 - https://en.gravatar.com/username | username - Gravatar Profile view in json
-- https://www.searchmy.bio/search?q=username | username Instagram searchmy.bio
-- https://www.snapdex.com/list?search=username | Popular Snapchat Names - Snapdex
 - https://twitter.com/username | Profile / Twitter
 - https://www.facebook.com/username | Facebook  note: you can’t actually use “username”
 - https://www.instagram.com/username/ | Instagram @username 
@@ -47,15 +55,11 @@
 - https://api.venmo.com/v1/users/username | Venmo
 - https://www.pinterest.com/username | Pinterest
 - https://pastebin.com/u/username | Pastebin
-- https://www.google.com/search?q=%22username%22 | "username" - Google Search
-- https://www.bing.com/search?q=%22username%22 | "username" - Bing
-- https://yandex.com/search/?text=%22username%22&lr=91 | "username" — Yandex
-- https://www.namechk.com/ | Namechk Username Search
-- https://www.namecheckr.com/ | Namecheckr Username Search
-- https://instantusername.com/#/ | Check username as you type
-- https://searchpof.com/ | This just does a google CSE search on Plentyoffish.com
-- https://usersearch.org/index.php | People Search Engine
-- https://whatsmyname.app/ | Whatsmyname Osintcombine
+- https://ws2.kik.com/user/<username_goes_here | Enter a Kik username and get information for that account in JSON format.
+- http://kik.me/<username_goes_here> | Check if a username exists simply by entering in a username in the URL. Displays full name, username and profile picture.
+
+# Browser extensions
+- https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
 
 # Github tools / Automation
 - https://github.com/soxoj/maigret | GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
