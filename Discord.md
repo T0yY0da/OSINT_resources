@@ -1,1 +1,6 @@
 - https://toolscord.com/ | Discord Profile Viewer with Discord user or Bot ID
+- https://discord.name/ | Enter any user ID and see when the account was created.
+- https://lookup.guru/ | Lookup any Discord ID and view details such as creation date and user type.
+- https://pixelatomy.com/snow-stamp/ | This will let you check the age of a Discord account or server.
+- https://discord.id/ | Another good tool for searching Discord users.
+- https://github.com/Delitefully/DiscordLists/blob/master/flags.md | A list of account flags. These are the public_flag codes in the output of a user account.
