@@ -1,7 +1,9 @@
 # Current favorites
+- https://inteltechniques.com/tools/Username.html
 - https://app.osint.industries/ | need to subscribe, limited searches
 - https://t.me/osint_maigret_bot | maigret tool as telegram bot
 - https://seintpl.github.io/imagstodon/ | Enter nickname to search for profile images on 100+ Mastodon instances
+- https://one-plus.github.io/EmailUsername
 
 # Browser extensions
 - https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
