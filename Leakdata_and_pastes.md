@@ -1,2 +1,3 @@
 - https://buckets.grayhatwarfare.com/ | Accidentaly open S3 buckets
 - https://psbdmp.ws/ | The biggest archive of {paste} dumps
+- https://pixeldrain.com/ | Storage and data transfer services
