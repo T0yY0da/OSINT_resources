@@ -3,6 +3,7 @@
 - https://app.osint.industries/ | need to subscribe, limited searches
 - https://t.me/osint_maigret_bot | maigret tool as telegram bot
 - https://seintpl.github.io/imagstodon/ | Enter nickname to search for profile images on 100+ Mastodon instances
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/usernames | A collection of online resources and tools to help you identify accounts via username.
 
 # Bulk searches
 - https://whatsmyname.app/ | WhatsMyName Web
