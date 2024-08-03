@@ -5,6 +5,7 @@
 - https://osint.earth/ | Comprehensive directory of public record lookup resources from all around the world.
 - https://inteltechniques.com/tools | From Michael Bazzell
 - https://start.me/p/nRADzL/advanced-search-tools | intel0logist's Advanced search tool collection,  including darkweb sources
+- https://ohshint.gitbook.io/ | OH SHINT! It's A Blog!
 
 # Other good options
 - https://start.me/p/m6XQ08/tools | Technisette OSINT tool collection
