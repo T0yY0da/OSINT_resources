@@ -1,5 +1,6 @@
 # Current favorites
-- https://search.0t.rocks/records?usernames= | Illicit services
+- https://app.osint.industries/ | need to subscribe, limited searches
+- https://t.me/osint_maigret_bot | maigret tool as telegram bot
 
 # Browser extensions
 - https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
@@ -8,7 +9,7 @@
 - https://haveibeenpwned.com/unifiedsearch/username | haveibeenpwned.com  username
 - https://dehashed.com/search?query=%22username | "username — DeHashed
 - https://psnprofiles.com/username
-- https://psbdmp.ws/api/search/username |psbdmp.ws username
+- https://psbdmp.ws/api/search/username | psbdmp.ws username
 - https://www.deviantart.com/username | Deviant Art
 - https://www.youtube.com/results?search_query=username
 - https://whatsmyname.app/ | WhatsMyName Web
