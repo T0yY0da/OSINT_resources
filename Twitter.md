@@ -38,6 +38,7 @@
 - https://www.labnol.org/internet/twitter-search-tricks/13693/ | Collection of Twitter search tactics
 - https://web.archive.org/web/*?twitter.com/accountname | deleted tweets
 - https://synapsint.com/ | The unified OSINT research tool
+- https://exportcomments.com/ | Easily exports all comments from your social media posts to Excel file.
 
 # Github tools / automation
 - https://github.com/twintproject/twint | Twitter collection script 
