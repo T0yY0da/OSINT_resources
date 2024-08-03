@@ -1,2 +1,3 @@
 - https://www.data-is-plural.com/
 - https://ddosecrets.com/article/parler | Distributed Denial of Secrets for Parler
+- https://sizeof.cat/post/twitch-leaks/ | Twitch leaks
