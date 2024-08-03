@@ -1,5 +1,5 @@
 # Current favorites
-- https://search.0t.rocks | Illicit Services
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/phone-numbers | A collection of online resources and tools that will help find phone number and locate more information about a phone number.
 
 # Other good options
 - https://freecarrierlookup.com | unlimited search, best details about VOIP
