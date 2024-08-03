@@ -1,3 +1,5 @@
 - https://buckets.grayhatwarfare.com/ | Accidentaly open S3 buckets
 - https://psbdmp.ws/ | The biggest archive of {paste} dumps
 - https://pixeldrain.com/ | Storage and data transfer services
+- https://ddosecrets.com/article/parler | Distributed Denial of Secrets for Parler
+- https://sizeof.cat/post/twitch-leaks/ | Twitch leaks
