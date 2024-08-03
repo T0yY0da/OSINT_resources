@@ -3,6 +3,7 @@
 - https://epieos.com/ | Nice email intel
 - https://keys.openpgp.org/ | email linked to pgp keys
 - https://inteltechniques.com/tools/Email.html | Bulk search various tools
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/email-addresses | A collection of online resources and tools to help you identify information from email addresses.
 
   
 # Other good options
