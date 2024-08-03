@@ -1,3 +1,3 @@
 - https://www.data-is-plural.com/
-- https://ddosecrets.com/article/parler | Distributed Denial of Secrets for Parler
-- https://sizeof.cat/post/twitch-leaks/ | Twitch leaks
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/data-sets | A collection of open data sets for all sorts of interesting things.
+
