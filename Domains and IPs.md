@@ -9,6 +9,7 @@
 - https://www.netify.ai/ | Network Intel
 - https://github.com/trickest/inventory | Asset inventory of over 800 public bug bounty programs, contains large domain lists.
 - https://iknowwhatyoudownload.com/ | Torrent downloads and distributions for IP
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/digital-network-intelligence-dnint | A collection of online resources and tools to assist with domain, IP address and general DNINT investigations, as well as website enumeration, exploits, CCTV, webcams and more.
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
