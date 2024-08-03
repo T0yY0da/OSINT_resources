@@ -1,4 +1,5 @@
 # Current favorites
+- https://synapsint.com/ | The unified OSINT research tool
 - https://dnsdumpster.com/ | DNSdumpster.com - dns recon and research, find and lookup dns records
 - https://app.netlas.io/host/ 
 - https://urlscan.io/ | URL and website scanner - urlscan.io
