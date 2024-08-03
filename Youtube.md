@@ -1,2 +1,11 @@
 - https://mattw.io/youtube-metadata/ | MW Metadata normal grabs singular details about a YouTube video and its uploader, playlist and its creator, or channel.
 - https://exportcomments.com/ | Easily exports all comments from your social media posts to Excel file.
+- https://hadzy.com/ | Search, sort and analyze youtube comments
+- http://www.watchframebyframe.com/ | Watch YouTube and Vimeo videos frame by frame and in slow motion
+- https://anilyzer.com/ | Watch YouTube and Vimeo videos frame by frame and slow motion
+- https://www.altcensored.com/ | View over 177,000 Censored YouTube videos from over 2,000 deleted channels.
+- https://www.you-tldr.com/ | A free tool and bookmarklet that gathers an easy to read "too long, didn't read" (TLDR) transcript of any YouTube video.
+- https://intelx.io/tools?tab=youtube | see its metadata and thumbnails.
+- https://filmot.com/ | Search within YouTube subtitles and captions
+- https://findyoutubevideo.thetechrobo.ca/ | Search several resources for archived YouTube video and metadata
+- https://ytlarge.com/youtube/video-data-viewer/ | YouTube metadata viewer
