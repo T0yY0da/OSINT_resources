@@ -57,6 +57,7 @@
 - https://pastebin.com/u/username | Pastebin
 - https://ws2.kik.com/user/<username_goes_here | Enter a Kik username and get information for that account in JSON format.
 - http://kik.me/<username_goes_here> | Check if a username exists simply by entering in a username in the URL. Displays full name, username and profile picture.
+- https://graphtreon.com/creator/<username> | Patreon creator search
 
 # Browser extensions
 - https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
