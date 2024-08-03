@@ -1,6 +1,7 @@
 # Current favorites
 - https://app.osint.industries/ | need to subscribe, limited searches
 - https://t.me/osint_maigret_bot | maigret tool as telegram bot
+- https://seintpl.github.io/imagstodon/ | Enter nickname to search for profile images on 100+ Mastodon instances
 
 # Browser extensions
 - https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
