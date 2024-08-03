@@ -1,8 +1,9 @@
 # Current favorites
 - https://carnet.ai/ | Upload photo for AI match
 - https://www.partialnumberplate.co.uk/ | Partial lincense plate nr search for UK
-- https://search.0t.rocks | Illicit Services
 - https://platerecognizer.com/ | Automatic License Plate Recognition software that works in all environments, optimized for your location.
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/vehicle-and-transportation-intelligence-vatint | A collection of web tools and resources to assist with the identification and tracking of vehicles, boats, aircraft and other transportation.
+- https://inteltechniques.com/tools/Vehicle.html | Bulk search  
 
 # Other good options
 - http://mmr-demo.orpix-inc.com/detection/main/ | Upload image or URL
