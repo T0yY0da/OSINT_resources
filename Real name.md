@@ -1,3 +1,4 @@
+- https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/people-investigations | A collection of web resources and tools to help locate information for an individual.
 - https://searchmy.bio/ | Search my bio
 - https://seintpl.github.io/NAMINT/ | possible search patterns and links for names
 - https://truepeoplesearch.com/ | True People Search
