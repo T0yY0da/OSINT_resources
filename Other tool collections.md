@@ -1,4 +1,5 @@
 # Current favorites
+- https://github.com/soxoj | Awesome tool collection by Soxoj
 - https://github.com/sinwindie/OSINT | Very useful flowcharts and bookmarklets
 - http://cybdetective.com/osintmap/ | Worldmap of OSINT tools
 - https://metaosint.github.io/ | Visual map of OSINT sources and tools
