@@ -33,7 +33,8 @@
 - https://viewdns.info/reversewhois/ | whois reverse email search
 - https://www.aware-online.com/en/email-to-twitter-account/ | Guide on Trusted Provider Method
 - https://synapsint.com/ | The unified OSINT research tool
-- 
+
+  
 # Github tools / automation
 - https://www.spiderfoot.net/ | Automated API Execution for Email Search
 - https://github.com/lanmaster53/recon-ng | Advanced OSINT Command Line Tool Linux
