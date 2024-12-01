@@ -4,8 +4,8 @@
 
 
 # Clearweb
-- https://www.dan.me.uk/tornodes | TOR Node List
-- https://metrics.torproject.org/exonerator.html | ExoneraTor – Tor Metrics
+- https://onionite.net/ | Top Tor nodes by consensus weight
+- https://metrics.torproject.org/exonerator.html | Enter an IP address and date to find out whether that address was used as a Tor relay
 - https://collector.torproject.org/archive/relay-descriptors/microdescs/ | Index of /archive/relay-descriptors/microdescs
 - https://torwhois.com/ | TorWhois.com
 - https://onionengine.com/ | Onion Search Engine
