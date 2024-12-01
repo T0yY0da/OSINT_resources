@@ -33,6 +33,8 @@
 - https://flickr.com/ | Flickr
 - https://flickr.com/map | Flickr Map
 - https://www.flickr.com/services/api | Flickr API Key
+- https://app.remini.ai/ | AI photo enhancer
+- https://remove.bg | Remove background from images
 
 
 # Github tools / automation
