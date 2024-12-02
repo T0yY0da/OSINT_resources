@@ -7,3 +7,5 @@
 - https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 - https://chromewebstore.google.com/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj
 - https://tools.myosint.training/ | bookmarklets
+- https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi
+- https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd
