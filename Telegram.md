@@ -12,4 +12,5 @@
 - https://intelx.io/tools?tab=telegram |  IntelX tool
   
 # Github tools / Automation
-https://github.com/sockysec/Telerecon | A reconnaissance framework for researching and investigating Telegram.
+- https://github.com/sockysec/Telerecon | A reconnaissance framework for researching and investigating Telegram.
+- https://github.com/bellingcat/telegram-phone-number-checker
