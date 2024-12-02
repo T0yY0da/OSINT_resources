@@ -3,6 +3,7 @@
 - https://www.redective.com/ | Search for a username or subreddit and view in-depth statistics about it.
 - https://redditmetis.com/ | Enter a username and see recent activity, comment and submission summaries, word cloud, and more interesting stats.
 - https://www.reveddit.com/ | Reveal Reddit's secretly* removed content. Search by username or subreddit.
+- https://redditcommentsearch.com/ | Reddit comment and user search
   
 # Other good options
 - https://reddit-user-analyser.netlify.app/ | Reddit User Analyser
