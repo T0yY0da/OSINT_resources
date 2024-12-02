@@ -17,7 +17,7 @@
 - https://dorkking.blindf.com/
 - https://osint.rocks/
 - https://informationlaundromat.com/?utm_source=substack&utm_medium=email
-- 
+- https://infoga.io
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
@@ -34,8 +34,14 @@
 - https://dnpedia.com/
 - https://centralops.net/co/
 - https://www.glimpsehq.io/
+- https://github.com/Josue87/EmailFinder
+- https://findemail.io/
+- https://hunter.io/domain-search
+- https://anymailfinder.com/email-finder-by-domain
+- https://minelead.io/
 
 # Github tools / Automation
 - https://www.whatismybrowser.com/developers/tools/wget-wizard/ | wget wizard
 - https://github.com/christophetd/censys-subdomain-finder
-- - https://github.com/sharsil/favicorn
+- https://github.com/sharsil/favicorn
+
