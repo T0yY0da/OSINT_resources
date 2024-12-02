@@ -38,6 +38,7 @@
 - https://app.remini.ai/ | AI photo enhancer
 - https://remove.bg | Remove background from images
 - https://imglarger.com/
+- https://6mzld2.csb.app/
 
 
 # Github tools / automation
