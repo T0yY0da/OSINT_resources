@@ -39,3 +39,4 @@
 - https://github.com/eth0izzle/the-endorser | LinkedIn Script
 - https://github.com/0x09AL/raven | LinkedIn Script
 - https://github.com/kussic/arlandria | LinkedIn Script
+- https://github.com/bellingcat/EDGAR
