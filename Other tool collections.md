@@ -17,7 +17,7 @@
 - https://www.osintcombine.com/dw-osint-bookmarks | Dark Web OSINT Bookmarks | OSINT Combine
 - https://www.osintcombine.com/osint-bookmarks | OSINT Bookmarks | OSINT Combine
 - https://osintteam.com/people-recon-with-recon-ng/ | People Recon With Recon-ng
-- https://github.com/ranlo/osintsummit-2023-resources | GitHub - ranlo/osintsummit-2023-resources: A categorized list of resources presented during the 2023 Sans OSINTSummit
 - https://seintpl.github.io/ | SEINT_pl | seintpl.github.io
 - https://github.com/jivoi/awesome-osint | Especially the company directory
 - https://github.com/cqcore/Social-Media-OSINT | Social Media OSINT collection containing - tools, techniques & tradecraft.
+- https://github.com/Astrosp/Awesome-OSINT-For-Everything
