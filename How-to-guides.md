@@ -6,4 +6,5 @@
 - https://smartsocial.com/teen-slang-emojis-hashtags-list
 - https://osintteam.blog/8-tips-to-improve-your-reverse-image-search-results-6841cd828b89
 - https://www.osintteam.com/complete-domain-name-research-framework-thinking-beyond-osint-tools/
+- https://sowel.soxoj.com/about
 - 
