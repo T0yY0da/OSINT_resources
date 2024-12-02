@@ -9,3 +9,4 @@
 - https://sowel.soxoj.com/about
 - https://osintteam.blog/leaks-and-breaches-for-osint-a7e3eb6bb56f
 - https://thecontractor.io/a-method-for-identifying-onion-associated-ip-addresses/
+- https://redteamrecipe.com/osint-methods-for-image-investigations
