@@ -16,3 +16,4 @@
 - https://medium.com/@zmalinich/discord-osint-redux-6c59b7a23b6d
 - https://netlas.medium.com/using-dns-history-in-cybersecurity-fd5a53ea300f
 - https://publish.obsidian.md/dukera-gewel/about
+- https://www.osint.uk/content/how-to-research-companies---beginner-osint-guide
