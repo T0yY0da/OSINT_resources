@@ -33,6 +33,7 @@
 - https://www.tiny-scan.com/
 - https://dnpedia.com/
 - https://centralops.net/co/
+- https://www.glimpsehq.io/
 
 # Github tools / Automation
 - https://www.whatismybrowser.com/developers/tools/wget-wizard/ | wget wizard
