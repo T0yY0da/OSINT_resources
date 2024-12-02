@@ -5,6 +5,7 @@
 - https://seintpl.github.io/imagstodon/ | Enter nickname to search for profile images on 100+ Mastodon instances
 - https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/usernames | A collection of online resources and tools to help you identify accounts via username.
 - https://castrickclues.com/
+- https://osint.rocks/
 
 # Bulk searches
 - https://whatsmyname.app/ | WhatsMyName Web
