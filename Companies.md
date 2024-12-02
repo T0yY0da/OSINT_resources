@@ -23,7 +23,6 @@
 - https://www.corporationwiki.com/ | US business search
 - http://www.fundinguniverse.com/company-histories/ | Company Profiles
 - https://opencorporates.com/ | OpenCorporates
-- https://www.google.com/search?q=%22XX%22+AND+site%3Ahttps%3A%2F%2Foffshoreleaks.icij.org&oq=%22XX%22+AND+site%3Ahttps%3A%2F%2Foffshoreleaks.icij.org&aqs=chrome..69i57.13022j0j7&sourceid=chrome&ie=UTF-8 | ICIJ Offshore Leaks Database String
 - https://www.opensanctions.org/ | open sanctions
 - https://ioserv.com/en/jurisdictions/jurisdlist/ | Offshore Jurisdictions
 - https://www.lowtax.net/g/jurisdictions/Global | Incorporation Guide
@@ -33,6 +32,7 @@
 - https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country | Legal Entity Types by Country
 - https://www.ripoffreport.com/ | Ripoff Report
 - https://www.indeed.com/ | Indeed
+- https://offshoreleaks.icij.org/
 
 # Github tools / Automation 
 - https://gitlab.com/initstring/linkedin2username | LinkedIn Script
