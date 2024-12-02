@@ -5,4 +5,5 @@
 - https://blockpath.com/ | Bitcoin analysis and visualisation
 - https://www.breadcrumbs.app/ | Community-powered blockchain analytics platform turning blockchain data into information
 - https://metasleuth.io/
+- https://www.onchain.industries/
 
