@@ -6,4 +6,5 @@
 - https://www.breadcrumbs.app/ | Community-powered blockchain analytics platform turning blockchain data into information
 - https://metasleuth.io/
 - https://www.onchain.industries/
+- https://intel.arkm.com/
 
