@@ -45,3 +45,4 @@
 
 # Github tools / automation
 - https://github.com/bellingcat/telegram-phone-number-checker | This script lets you check whether a specific phone number is connected to a Telegram account.
+- https://github.com/AzizKpln/Moriarty-Project
