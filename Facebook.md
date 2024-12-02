@@ -1,5 +1,6 @@
 # Current favorites
 - https://inteltechniques.com/tools/Facebook.html | Bulk search for Facebook
+- https://plessas.net/facebookmatrix | Formulas for searching FB
 
 # Other good options
 - https://lookup-id.com/ | Find my Facebook ID | Find Facebook Group ID | Find Facebook Page ID
