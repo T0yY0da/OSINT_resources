@@ -1,3 +1,9 @@
 - https://github.com/hatlord/Spiderpig | A document metadata spider.
 - https://intelx.io/tools?tab=filetool | This tool allows you to extract text, metadata, selectors and images from supported files.
 - https://opendirsearch.abifog.com/
+- https://www.dedigger.com/#gsc.tab=0
+- https://s3digger.com/#gsc.tab=0
+- https://fidigger.com/#gsc.tab=0
+- https://shortdigger.com/#gsc.tab=0
+- https://yadigger.com/#gsc.tab=0
+- 
