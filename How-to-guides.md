@@ -1,3 +1,4 @@
+- https://github.com/cipher387/Advanced-search-operators-list/
 - https://osintguardian.com/resources/
 - https://osintteam.blog/unlocking-the-power-of-shodan-a-comprehensive-guide-for-beginners-5db29510a2a5 | Guide how to use Shodan
 - https://osintteam.blog/utilizing-chatgpt-for-osint-investigations-8299ce16dd28 | How to use ChatGPT for OSINT investigations
