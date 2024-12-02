@@ -21,6 +21,7 @@
 - http://www.pictriev.com/ | Face search
 - https://vk.watch/ | VK image search
 - https://search4faces.com/en/ | Reverse image search for faces
+- https://lenso.ai/en
   
 # Image tools
 - https://www.remove.bg/ | Remove Background from Image for Free – remove.bg
