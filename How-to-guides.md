@@ -14,3 +14,4 @@
 - https://medium.com/@ninamaelainine/deep-dive-into-discord-osint-techniques-00534bf69371
 - https://www.osintteam.com/you-want-to-geolocate-an-image-a-guide-on-how-to/
 - https://medium.com/@zmalinich/discord-osint-redux-6c59b7a23b6d
+- https://netlas.medium.com/using-dns-history-in-cybersecurity-fd5a53ea300f
