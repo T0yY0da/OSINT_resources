@@ -5,6 +5,7 @@
 - https://inteltechniques.com/tools/Email.html | Bulk search various tools
 - https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/email-addresses | A collection of online resources and tools to help you identify information from email addresses.
 - https://analyzeid.com/email-permutator/ | E-mail permutator
+- https://predictasearch.com
 
   
 # Other good options
