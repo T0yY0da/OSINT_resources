@@ -5,3 +5,4 @@
 - https://kycnot.me/
 - https://routersecurity.org
 - https://tosdr.org/
+- https://github.com/malwaredojo/loki
