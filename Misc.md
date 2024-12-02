@@ -10,6 +10,7 @@
 - https://www.huntintel.io/ | Find social media posts surrounding a location
 - https://thehiveindex.com/communities/ | Index of online communities
 - https://www.helpnetsecurity.com/2024/02/21/trufflehog-open-source-solution-for-scanning-secrets/
+- https://www.searchtempest.com/?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com
 
 # Github tools / Automation
 - https://github.com/devXprite/infoooze | easily search for information about websites, IP addresses, usernames, and more, all from the convenience of a simple command-line interface.
