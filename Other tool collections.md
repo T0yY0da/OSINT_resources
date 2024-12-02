@@ -1,4 +1,5 @@
 # Current favorites
+- https://github.com/OSINTI4L/The-Kitchen-Sink
 - https://github.com/soxoj | Awesome tool collection by Soxoj
 - https://wiki.digitalmethods.net/Dmi/ToolDatabase
 - https://github.com/sinwindie/OSINT | Very useful flowcharts and bookmarklets
