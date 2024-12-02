@@ -8,3 +8,4 @@
 - https://www.osintteam.com/complete-domain-name-research-framework-thinking-beyond-osint-tools/
 - https://sowel.soxoj.com/about
 - https://osintteam.blog/leaks-and-breaches-for-osint-a7e3eb6bb56f
+- https://thecontractor.io/a-method-for-identifying-onion-associated-ip-addresses/
