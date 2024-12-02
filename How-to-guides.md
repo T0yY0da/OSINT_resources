@@ -12,4 +12,4 @@
 - https://thecontractor.io/a-method-for-identifying-onion-associated-ip-addresses/
 - https://redteamrecipe.com/osint-methods-for-image-investigations
 - https://medium.com/@ninamaelainine/deep-dive-into-discord-osint-techniques-00534bf69371
-- 
+- https://www.osintteam.com/you-want-to-geolocate-an-image-a-guide-on-how-to/
