@@ -31,6 +31,7 @@
 - https://web-check.xyz/
 - https://host.io
 - https://www.tiny-scan.com/
+- https://dnpedia.com/
 - https://centralops.net/co/
 
 # Github tools / Automation
