@@ -12,4 +12,4 @@
 - https://reddit-user-analyser.netlify.app/ | Analyse a reddit user
 - https://adhesivecheese.github.io/chearch/ | Another clone of the Camas Reddit archive search tool.
 - https://bmai.dev/reddit/ | Reddit archive search tool
-- 
+- https://betterredditsearch.web.app/
