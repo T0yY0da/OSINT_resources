@@ -15,6 +15,7 @@
 - https://metrics.torproject.org/exonerator.html
 - https://dorkking.blindf.com/
 - https://osint.rocks/
+- 
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
@@ -27,6 +28,7 @@
 - https://builtwith.com/ | Find out what websites are Built With
 - https://web-check.xyz/
 - https://host.io
+- https://www.tiny-scan.com/
 
 # Github tools / Automation
 - https://www.whatismybrowser.com/developers/tools/wget-wizard/ | wget wizard
