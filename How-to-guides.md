@@ -4,4 +4,4 @@
 - https://freecodecamp.org/news/how-do-you-use-regular-expression-in-ctrl-f
 - https://publication.osintambition.org/kasm-using-a-container-platform-to-increase-your-opsec-and-privacy-during-osint-investigations-a4e451f1ee45
 - https://smartsocial.com/teen-slang-emojis-hashtags-list
-- 
+- https://osintteam.blog/8-tips-to-improve-your-reverse-image-search-results-6841cd828b89
