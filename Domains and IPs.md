@@ -1,4 +1,5 @@
 # Current favorites
+- https://dnshistory.org/
 - https://inteltechniques.com/tools/Domain.html
 - https://inteltechniques.com/tools/IP.html
 - https://synapsint.com/ | The unified OSINT research tool
