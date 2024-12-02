@@ -7,6 +7,7 @@
 - https://www.smappen.com | Calculating drive time radius
 - https://geospy.web.app/ | AI for geolocation
 - https://picarta.ai/ | AI for geolocation
+- https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb
 
 
 # Other good options
