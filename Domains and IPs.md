@@ -31,6 +31,7 @@
 - https://web-check.xyz/
 - https://host.io
 - https://www.tiny-scan.com/
+- https://centralops.net/co/
 
 # Github tools / Automation
 - https://www.whatismybrowser.com/developers/tools/wget-wizard/ | wget wizard
