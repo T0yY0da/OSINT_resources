@@ -67,6 +67,7 @@
 - https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo | Who Am I Browser Extension
 
 # Github tools / Automation
+- https://github.com/OSINTI4L/cupidcr4wl
 - https://github.com/soxoj/maigret | GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - https://github.com/chr3st5an/tracer
 - 
