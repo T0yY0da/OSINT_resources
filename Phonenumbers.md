@@ -1,5 +1,7 @@
 # Current favorites
 - https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/phone-numbers | A collection of online resources and tools that will help find phone number and locate more information about a phone number.
+- https://whatsapp.checkleaked.cc/
+- https://2chat.co/tools/whatsapp-checker
 
 # Other good options
 - https://freecarrierlookup.com | unlimited search, best details about VOIP
