@@ -8,6 +8,7 @@
 - https://start.me/p/nRADzL/advanced-search-tools | intel0logist's Advanced search tool collection,  including darkweb sources
 - https://ohshint.gitbook.io/ | OH SHINT! It's A Blog!
 - https://bellingcat.gitbook.io/toolkit
+- https://lambda.black/osint.html?mc_cid=40647d4fa0
 
 # Other good options
 - https://start.me/p/m6XQ08/tools | Technisette OSINT tool collection
