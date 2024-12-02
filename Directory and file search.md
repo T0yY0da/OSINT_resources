@@ -1,0 +1,16 @@
+- https://opendirsearch.abifog.com/
+- http://lendx.org/
+- https://www.mmnt.ru/int/
+- https://www.dedigger.com/#gsc.tab=0
+- https://s3digger.com/#gsc.tab=0
+- https://fidigger.com/#gsc.tab=0
+- https://shortdigger.com/#gsc.tab=0
+- https://yadigger.com/#gsc.tab=0
+- https://filemood.com/
+- https://filepursuit.com/
+- https://odcrawler.xyz/
+- https://ewasion.github.io/opendirectory-finder/
+- https://sites.google.com/view/l33tech/tools/ods
+- http://palined.com/search/
+- https://www.eyeofjustice.com/od/
+- 
