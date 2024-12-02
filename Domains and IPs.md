@@ -11,7 +11,7 @@
 - https://iknowwhatyoudownload.com/ | Torrent downloads and distributions for IP
 - https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/digital-network-intelligence-dnint | A collection of online resources and tools to assist with domain, IP address and general DNINT investigations, as well as website enumeration, exploits, CCTV, webcams and more.
 - https://themarkup.org/blacklight
-- 
+- https://metrics.torproject.org/exonerator.html
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
