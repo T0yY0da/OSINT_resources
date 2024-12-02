@@ -1,0 +1,7 @@
+- https://catbox.moe
+- https://pastebin.com
+- https://pixeldrain.com
+- https://paste.mozilla.org/
+- https://justpaste.it/
+- https://doxbin.com
+- 
