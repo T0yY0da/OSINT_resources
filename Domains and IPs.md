@@ -1,5 +1,5 @@
 # Current favorites
-- https://github.com/sharsil/favicorn
+
 - https://dnshistory.org/
 - https://inteltechniques.com/tools/Domain.html
 - https://inteltechniques.com/tools/IP.html
@@ -35,3 +35,4 @@
 # Github tools / Automation
 - https://www.whatismybrowser.com/developers/tools/wget-wizard/ | wget wizard
 - https://github.com/christophetd/censys-subdomain-finder
+- - https://github.com/sharsil/favicorn
