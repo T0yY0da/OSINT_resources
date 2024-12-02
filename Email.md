@@ -7,6 +7,8 @@
 - https://analyzeid.com/email-permutator/ | E-mail permutator
 - https://predictasearch.com
 - https://castrickclues.com/
+- https://osint.rocks/
+- 
 
   
 # Other good options
