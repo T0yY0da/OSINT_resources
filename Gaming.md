@@ -6,6 +6,7 @@
 
 # Steam specific
 - https://findsteamid.com/en/home | Find more info on steam account
+- https://steam-reveal.vercel.app/en
 
 # Twitch specific
 - https://twitch-tools.lolarchiver.com/ | A collection of Twitch tools, like username history, chat history, and other changelog history.
