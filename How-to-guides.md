@@ -19,3 +19,4 @@
 - https://netlas.medium.com/using-dns-history-in-cybersecurity-fd5a53ea300f
 - https://publish.obsidian.md/dukera-gewel/about
 - https://www.osint.uk/content/how-to-research-companies---beginner-osint-guide
+- https://osint2h22v.substack.com/p/new-osint-source-discovery-internet
