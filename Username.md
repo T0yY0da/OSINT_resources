@@ -66,6 +66,8 @@
 
 # Github tools / Automation
 - https://github.com/soxoj/maigret | GitHub - soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- https://github.com/chr3st5an/tracer
+- 
 - https://github.com/p1ngul1n0/blackbird | GitHub - p1ngul1n0/blackbird: An OSINT tool to search for accounts by username in social networks.
 - https://github.com/sherlock-project/sherlock | GitHub - sherlock-project/sherlock: 🔎 Hunt down social media accounts by username across social networks
 - https://github.com/qeeqbox/social-analyzer | GitHub - qeeqbox/social-analyzer: API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
