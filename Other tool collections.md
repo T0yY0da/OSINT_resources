@@ -21,3 +21,6 @@
 - https://github.com/jivoi/awesome-osint | Especially the company directory
 - https://github.com/cqcore/Social-Media-OSINT | Social Media OSINT collection containing - tools, techniques & tradecraft.
 - https://github.com/Astrosp/Awesome-OSINT-For-Everything
+- https://start.me/p/rxRbpo/cti?locale=en
+- https://github.com/cipher387/osint_stuff_tool_collection#reverseimagesearchengines
+- 
