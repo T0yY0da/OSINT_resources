@@ -2,3 +2,4 @@
 - https://osintteam.blog/utilizing-chatgpt-for-osint-investigations-8299ce16dd28 | How to use ChatGPT for OSINT investigations
 - https://github.com/Ishanoshada/GDorks/
 - https://freecodecamp.org/news/how-do-you-use-regular-expression-in-ctrl-f
+- https://publication.osintambition.org/kasm-using-a-container-platform-to-increase-your-opsec-and-privacy-during-osint-investigations-a4e451f1ee45
