@@ -31,3 +31,4 @@
 - https://github.com/shashwatah/instahunter | GitHub - shashwatah/instahunter: CLI OSINT app that can fetch data from Instagram's Web API without authentication.
 - https://github.com/Gobutsu/BehindIt
 - https://instaloader.github.io/
+- https://github.com/ibnaleem/instatracker
