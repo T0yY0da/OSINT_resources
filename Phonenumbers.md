@@ -4,6 +4,7 @@
 - https://2chat.co/tools/whatsapp-checker
 - https://predictasearch.com
 - https://castrickclues.com/
+- https://osint.rocks/
 
 # Other good options
 - https://freecarrierlookup.com | unlimited search, best details about VOIP
