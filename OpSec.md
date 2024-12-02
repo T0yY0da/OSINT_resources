@@ -1,3 +1,3 @@
 - https://piaproxy.com
 - https://reports.exodus-privacy.eu.org/en/
-- 
+- https://github.com/tycrek/degoogle
