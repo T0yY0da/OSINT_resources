@@ -5,3 +5,8 @@
 - https://justpaste.it/
 - https://doxbin.com
 - https://redhuntlabs.com/online-ide-search/
+- https://cybdetective.com/pastebin.html
+- https://justpaste.it/
+- https://pastecode.dev/
+- https://psbdmp.ws/
+- 
