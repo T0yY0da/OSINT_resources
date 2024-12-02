@@ -18,6 +18,7 @@
 - https://osint.rocks/
 - https://informationlaundromat.com/?utm_source=substack&utm_medium=email
 - https://infoga.io
+- https://search.odin.io/
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
