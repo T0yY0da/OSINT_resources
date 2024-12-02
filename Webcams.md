@@ -2,3 +2,4 @@
 - http://www.opentopia.com/ | Free live webcams
 - https://www.the-webcam-network.com/ | listing of almost every place on earth and point you to webcams at these places (if available) and the nearest webcams available.
 - http://insecam.org/ | Live cameras
+- https://osintteam.blog/mastering-online-camera-searches-9d4007ff874f
