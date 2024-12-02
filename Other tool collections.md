@@ -9,6 +9,7 @@
 - https://ohshint.gitbook.io/ | OH SHINT! It's A Blog!
 - https://bellingcat.gitbook.io/toolkit
 - https://lambda.black/osint.html?mc_cid=40647d4fa0
+- https://github.com/wddadk/OSINT-for-countries
 
 # Other good options
 - https://start.me/p/m6XQ08/tools | Technisette OSINT tool collection
