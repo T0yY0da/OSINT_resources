@@ -5,5 +5,5 @@
 - https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg
 - https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn
 - https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
-- 
+- https://chromewebstore.google.com/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj
 - 
