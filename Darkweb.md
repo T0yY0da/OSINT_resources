@@ -1,3 +1,6 @@
+
+- https://github.com/crcresearch/DWData
+
 # Collection
 - https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/deep-webs-and-darknets | A collection of online resources and tools to assist with investigations involving decentralized networks such as TOR, I2P and FreeNet.
 - https://metrics.torproject.org/ | Metrics and Tor resources
