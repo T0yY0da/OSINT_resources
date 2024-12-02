@@ -1,3 +1,4 @@
+- https://discords.com/bio | Find Discord users 
 - https://toolscord.com/ | Discord Profile Viewer with Discord user or Bot ID
 - https://discord.name/ | Enter any user ID and see when the account was created.
 - https://lookup.guru/ | Lookup any Discord ID and view details such as creation date and user type.
