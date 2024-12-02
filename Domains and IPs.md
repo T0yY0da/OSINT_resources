@@ -25,3 +25,4 @@
 
 # Github tools / Automation
 - https://www.whatismybrowser.com/developers/tools/wget-wizard/ | wget wizard
+- https://github.com/christophetd/censys-subdomain-finder
