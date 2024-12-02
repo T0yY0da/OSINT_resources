@@ -1,6 +1,7 @@
 # Current favorites
 - https://tgstat.com/ | One of the largest directories of Telegram channels. Provides detailed information about audience growth, engagements, and mentions of a particular channel in various sources.
 - https://telegcrack.com/ | A search engine for Telegra.ph. You can find the all posts with known title. Currently has around 3,554,101 posts indexed.
+- https://telepathydb.com/
 
   
 # Other good options
