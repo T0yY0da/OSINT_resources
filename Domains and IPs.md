@@ -1,4 +1,5 @@
 # Current favorites
+- https://github.com/sharsil/favicorn
 - https://dnshistory.org/
 - https://inteltechniques.com/tools/Domain.html
 - https://inteltechniques.com/tools/IP.html
