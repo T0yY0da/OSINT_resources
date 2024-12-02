@@ -14,6 +14,7 @@
 - https://themarkup.org/blacklight
 - https://metrics.torproject.org/exonerator.html
 - https://dorkking.blindf.com/
+- https://osint.rocks/
 
 # Other good options
 - https://fullhunt.io/ | FullHunt | Expose Your Attack Surface
