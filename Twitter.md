@@ -1,6 +1,7 @@
 # Current favorites:
 - https://github.com/zedeus/nitter/wiki/Instances | Nitter is a free and open source alternative Twitter front-end focused on privacy and performance.
 - https://cache.digitaldigging.org/ | helps you find archived versions of deleted tweets.
+- https://codeofaninja.com/tools/find-twitter-id/
 
 # Other good options
 - https://twitter.com/search-advanced
